@@ -1,0 +1,36 @@
+# 系统噪音文件
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+*.lnk
+Icon?
+folder shortcut targets
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+__pycache__/
+
+# 临时与备份文件
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.cache
+*$*
+.DS_Store
+._*
+
+# Git 内部（防止误提交嵌套仓库）
+.git/
+.gitmodules
