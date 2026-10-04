@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 cxhoyo
+Copyright (c) 2026 cxhuyo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,6 +28,7 @@ SOFTWARE.
    其原著作权可能不属于本仓库作者。在这些图片所在的目录内允许非商业性学习、参考与复现，
    但请勿将其单独再分发或用于商业用途。若你是原作者且不希望作品被收录，
    请开 Issue 告知，会立即移除。
-2. 本仓库的设计在原作者方案基础上做了改进（见 README「致谢与说明」）。
-   原作者与原始出处尚未标注，如有知情者请提 Issue 补充署名。
+2. 本仓库的设计在原作者方案基础上做了改进。
+   原作者与原始出处已在 README「🙏 致谢」中标注为 B站UP主 “DIY一个忠先生”；
+   若署名有误或需补充原始出处，请提 Issue 告知，会立即更正。
 3. 本许可不授予任何专利许可。滑轨结构本身可能涉及第三方专利，使用者自行判断风险。
