@@ -6,8 +6,8 @@
 
 - **仓库地址**：
   - GitHub：<https://github.com/cxhuyo/DIY-Camera-Slider>
-  - Gitee（国内用户推荐，访问更快）：<https://gitee.com/cxhoyo/DIY-Camera-Slider>
-- **怎么用**：把链接发给支持 Skills 的 AI agent（如 WorkBuddy），说一句"下载这个仓库并安装里面的滑轨组装 skill"。agent 会拉取仓库文件，把 `SKILL.md` 和 `references/` 安装为技能（技能目录名 `diy-slider-assembly`），安装完成后即可开始使用
+  - Gitee（国内用户推荐，访问更快）「可能需登录」：<https://gitee.com/cxhoyo/DIY-Camera-Slider>
+- **怎么用**：把链接发给支持 Skills 的 AI agent，说一句"下载这个仓库并安装里面的滑轨组装 skill"。agent 会拉取仓库文件，把 `SKILL.md` 和 `references/` 安装为技能（技能目录名 `diy-slider-assembly`），安装完成后即可开始使用
 - **使用**：组装过程中随时提问，agent 会按技能内置的 14 步教程、零件对照表和排错手册给出针对性回答，例如：
   - "下一步做什么？"
   - "这颗 M5×30 螺丝装在哪里？"
