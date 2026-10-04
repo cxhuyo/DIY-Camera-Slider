@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 cxhoyo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+补充说明（不属于许可证条款，仅作善意提示）：
+
+1. 本仓库包含「材料采购参考图」（`材料图片/` 目录）。这些照片来自网络或商家页面，
+   其原著作权可能不属于本仓库作者。在这些图片所在的目录内允许非商业性学习、参考与复现，
+   但请勿将其单独再分发或用于商业用途。若你是原作者且不希望作品被收录，
+   请开 Issue 告知，会立即移除。
+2. 本仓库的设计在原作者方案基础上做了改进（见 README「致谢与说明」）。
+   原作者与原始出处尚未标注，如有知情者请提 Issue 补充署名。
+3. 本许可不授予任何专利许可。滑轨结构本身可能涉及第三方专利，使用者自行判断风险。
